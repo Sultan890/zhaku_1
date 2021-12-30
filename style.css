@@ -1,0 +1,35 @@
+a{
+  color: green;
+}
+#hello{
+  font-size: 32px;
+  width: 50%;
+
+  background-color: #FFCE43;
+  padding: 12px
+
+  display: inline-block;
+}
+#hello:hover{
+  border: 2px solid #323232;
+}
+
+#basketboll{
+  border: 20px solid #8732ff;
+  position: -webkit-sticky;
+  position: sticky;
+  width:  350px;
+}
+#game_star{
+  border: 20px solid #323232;
+  margin-left: 25px;
+  position: -webkit-sticky;
+  position: sticky;
+  width:  350px;
+
+}
+.myself:hover{
+  background-color: #ff3a83;
+  border: 2px solid #323232;
+  width:  50%;
+}
